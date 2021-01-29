@@ -1,0 +1,28 @@
+body {
+    background-color: white;
+    color: black;
+}
+
+.button {
+    color: #F2EB80;
+    background-color: #324873;
+    border-radius: 5px;
+    border: 1px solid #F2EB80;
+    padding: 10px 10px;
+    transition-duration: 0.4s;
+}
+
+.button:hover {
+  background-color: blue;
+  color: white;
+}
+
+.header {
+height: 150px;
+background-color: #6666cc;
+}
+.navigation {
+height: 550px;
+background-color: #339966;
+float: left;
+}
